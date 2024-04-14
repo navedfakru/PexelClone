@@ -1,7 +1,7 @@
 # React Native PexelClone with Pexel API
 
 ## Download apk file
-[Download File](./android/app/build/outputs/apk/release/app-release.apk)
+[Download File](./android/apkfile/app-release.apk)
 
 ## Screenshots
 
